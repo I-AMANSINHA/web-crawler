@@ -52,9 +52,9 @@ Bot management is the practice of identifying and managing bot traffic on websit
 
 Often, companies prefer some web crawlers over others; for example, they may want to be indexed by Googlebot and Bingbot but not some smaller search engines. Or they may be fine with search engine web crawlers but not those used by coupon and comparison shopping apps. Some bot management solutions allow companies to take different actions on individual web crawlers based on their own goals so they don’t simply have to accept all web crawlers that want to index their site.
 
---------------------------------------------------------
-Crawler      |     	Pages/Day	   |        Visits/Site |
-Google	     |       Millions	   |        1-10x daily |
-Bing	     |       100k+	       |        2-5x daily  |
-Custom bot	 |       Unlimited	   |        You control |
----------------------------------------------------------
+| 🕷️ Crawler    | 📊 Pages/Day  | 🔄 Visits/Site     |
+|---------------|---------------|-------------------|
+| **Google**    | **Millions**  | **1-10x daily**   |
+| **Bing**      | **100k+**     | **2-5x daily**    |
+| **Custom bot**| **Unlimited** | **You control** 🚀 |
+
