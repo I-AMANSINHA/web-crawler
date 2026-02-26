@@ -2,7 +2,7 @@
 
 A web crawler is an automated program or bot that systematically searches websites and indexes the content on them. Primarily used to index pages for search engines, web crawlers are also used for coupon and comparison shopping apps, and SEO and RSS aggregation, among other tasks. Web crawlers access sites via the internet and gather information about each page, including titles, images, keywords, and links within the page. This data is used by search engines to build an index of web pages, allowing the engine to return faster and more accurate search results for users. Web crawlers may also be used to scrape or pull content from websites, monitor changes on web pages, test websites, and mine them for data. Web crawlers are also known as web spiders since they crawl pages on the World Wide Web.
 
-Diagram illustrating the three primary principles of a Zero Trust security architecture:
+The three primary principles of a Zero Trust security architecture:
  'All entities are untrusted by default,' 
  'Least-privilege access is enforced,' and
  'Comprehensive security monitoring is implemented.'
@@ -23,23 +23,23 @@ Search engine optimization is the practice of making a website more visible to t
 
 There are four basic types of web crawlers.
 
-Focused web crawlers search, index, and download web content concerning specific topics. Rather than exploring every hyperlink on a page as a standard web crawler would, a focused web crawler only follows links perceived to be relevant.
-Incremental crawlers revisit websites to refresh an index and update URLs.
-Parallel crawlers run multiple crawling processes at the same time to maximize the download rate.
-Distributed crawlers use multiple crawlers to simultaneously index different sites.
+1. Focused web crawlers search, index, and download web content concerning specific topics. Rather than exploring every hyperlink on a page as a standard web crawler would, a focused web crawler only follows links perceived to be relevant.
+2. Incremental crawlers revisit websites to refresh an index and update URLs.
+3. Parallel crawlers run multiple crawling processes at the same time to maximize the download rate.
+4. Distributed crawlers use multiple crawlers to simultaneously index different sites.
 
 --------------------------------------------What are examples of web crawlers?--------------------------------------------------------
 
 Most search engines use their own web crawlers that operate based on specific algorithms. Companies may also deploy their own web crawler software on-premises or in the cloud. Some of the most common crawlers include:
 
-Googlebot, the crawler for Google’s search engine
-Bingbot, Microsoft’s search engine crawler
-Amazonbot, the Amazon web crawler
-DuckDuckBot, the crawler for the search engine DuckDuckGo
-YandexBot, the crawler for the Yandex search engine
-Baiduspider, the web crawler for the Chinese search engine Baidu
-Slurp, the web crawler for Yahoo
-Coupon apps, like Honey
+1. Googlebot, the crawler for Google’s search engine
+2. Bingbot, Microsoft’s search engine crawler
+3. Amazonbot, the Amazon web crawler
+4. DuckDuckBot, the crawler for the search engine DuckDuckGo
+5. YandexBot, the crawler for the Yandex search engine
+6. Baiduspider, the web crawler for the Chinese search engine Baidu
+7. Slurp, the web crawler for Yahoo
+8. Coupon apps, like Honey
 
 -------------------------------------------What is web crawling vs. web scraping?-----------------------------------------------------
 
